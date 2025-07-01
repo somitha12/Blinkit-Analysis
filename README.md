@@ -39,5 +39,5 @@ This project was created to showcase my data visualization skills using Excel, a
 
 ## 🔗 Connect with Me
 
-[LinkedIn](#https://www.linkedin.com/in/somitha-n-80b049356/) | [Email](mailto:#somitha15@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/somitha-n-80b049356/) | [Email](mailto:#somitha15@gmail.com)
 
